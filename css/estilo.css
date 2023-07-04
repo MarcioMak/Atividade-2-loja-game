@@ -104,3 +104,32 @@ footer p {
     padding: 50px;
     display: none;
 }
+
+/* Promoções*/
+#section-Promoções {
+    text-align: center;
+}
+
+#section-Promoções h2 {
+    text-align: center;
+    font-weight: bold;
+
+    padding: 20px;
+}
+
+#section-Promoções img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+#section-Promoções .card {
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+#section-Promoções .preco {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
